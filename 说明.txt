@@ -1,0 +1,2 @@
+该代码可以用calculate.java来测试三个txt文件：test_malicious1.txt、test_malicious2.txt、test_malicious3.txt，验证集就一个yanzheng.txt共1082条数据(600恶，482良)
+可以得出三个模型的结果，见：论文试验记录.docx
